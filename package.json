@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "test": "truffle test",
+    "compile": "truffle compile",
+    "coverage": "solidity-coverage"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bignumber.js": "^7.2.1",
+    "ethereumjs-util": "^5.2.0",
+    "ethers": "^4.0.21",
+    "solidity-coverage": "^0.5.11",
+    "tronbox": "^2.3.11",
+    "tronweb": "^2.1.27",
+    "truffle": "^4.1.14",
+    "truffle-privatekey-provider": "^0.1.0",
+    "web3": "^1.0.0-beta.36"
+  }
+}
