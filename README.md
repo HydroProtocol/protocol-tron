@@ -1,10 +1,6 @@
 
 ## Hydro Protocol for Tron
 
-[![pipeline status](https://git.ddex.io/hydro/protocol/badges/master/pipeline.svg)](https://git.ddex.io/hydro/protocol-tron/commits/master)
-
-[![coverage report](https://git.ddex.io/hydro/protocol/badges/master/coverage.svg)](https://git.ddex.io/hydro/protocol-tron/commits/master)
-
 > Hydro Protocol for Tron is an open-source framework for building decentralized exchanges on Tron.
 
 ![](./images/hydro_small.jpg)
